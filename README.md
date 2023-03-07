@@ -5,6 +5,6 @@ institution on planet Earth and beyond... The Villains Academy!
 
 ## Instructions for Use
 
-'''shell
+```shell
 ruby directory.rb
-'''
+```
